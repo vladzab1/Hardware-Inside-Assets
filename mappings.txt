@@ -1086,3 +1086,19 @@ motorola razr 40:Motorola-Edge-50
 motorola razr 40:Motorola-Moto-Edge-50
 motorola signature:Motorola-Signature
 willow:Redmi-Note-8T
+XT2343-5:Motorola-Moto-G54-Power
+XT2343-6:Motorola-Moto-G54-Power
+XT2271:Motorola-Moto-Play-2023
+XT2271-5:Motorola-Moto-Play-2023
+CPH2145:Oppo-Find-X3Lite
+CPH2207:Oppo-Find-X3Neo
+220333QPG:Poco-c40
+220333QPI:Poco-c40
+23013PC75G:Poco-F5Pro
+21061110AG:Poco-X3Gt
+RMX5200:Realme-Gt8-Pro
+RMX5210:Realme-Gt8-Pro
+V2050:Vivo-V21
+V2066:Vivo-V21
+V2061:Vivo-V21e
+V2132:Vivo-V23Pro
